@@ -1,0 +1,1 @@
+import{m as e,f as o,Q as s,u as t,U as n,_ as c}from"./index-nMR7Ix0h.js";const a=n("h1",null,"Page not found",-1),_=[a],u=e({__name:"NotFoundPage",setup(r){return o(()=>{document.title=""}),(m,p)=>(t(),s("div",null,_))}}),d={},l={styles:d},i=c(u,[["__cssModules",l]]);export{i as default};
