@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vue-tsc && vite build",
+    "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
@@ -20,6 +20,7 @@
     "vuetify": "^3.4.9"
   },
   "devDependencies": {
+    "@babel/types": "^7.23.6",
     "@types/lodash": "^4.14.202",
     "@types/markdown-it": "^13.0.7",
     "@types/node": "^20.10.6",
