@@ -17,8 +17,6 @@ The "Camera Giao Thông" app collects user information for the following purpose
 
 - Personal information: The app does not collect any personal information from users such as name, email address, or phone number.
 - Location information: The app needs to collect the user's location information to display nearby traffic cameras. Users can turn off location sharing at any time.
-<!-- - Usage data: The app may collect information about how users use the app, such as time of use, frequently used features, etc. This data is collected in an anonymous form and is not used to identify individual users.
-- Device information: The app may collect information about the user's device, such as operating system, app version, etc. This information is used to troubleshoot and improve app performance. -->
 
 ### 3. Information Sharing
 
@@ -68,8 +66,6 @@ Effective Date: April 13, 2024
 
 - Thông tin cá nhân: Ứng dụng không thu thập bất kỳ thông tin cá nhân nào của người dùng như tên, địa chỉ email, hay số điện thoại.
 - Thông tin vị trí: Ứng dụng cần thu thập thông tin vị trí của người dùng để hiển thị các camera giao thông gần đó. Người dùng có thể tắt tính năng chia sẻ vị trí bất kỳ lúc nào.
-<!-- - Dữ liệu sử dụng: Ứng dụng có thể thu thập thông tin về cách sử dụng của người dùng như thời gian sử dụng, tính năng sử dụng thường xuyên, v.v. Dữ liệu này được thu thập ở dạng ẩn danh và không được sử dụng để xác định cá nhân người dùng.
-- Thông tin thiết bị: Ứng dụng có thể thu thập thông tin về thiết bị của người dùng như hệ điều hành, phiên bản ứng dụng, v.v. Thông tin này được sử dụng để khắc phục sự cố và cải thiện hiệu suất ứng dụng. -->
 
 ### 3. Chia sẻ thông tin
 
